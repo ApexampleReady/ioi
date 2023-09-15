@@ -9,8 +9,8 @@ int main(){
   ll n;
   ll k;
   cin >> n >> k; 
-  int max = -INF 
-  int secmax = -INF
+  int max = -INFINITY;
+  int secmax = -INFINITY;
 
   for(int i = 0; i<n;i++ ){
     int x;
